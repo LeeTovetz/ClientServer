@@ -58,6 +58,3 @@ Client side:
 Server got instance
 ```
 
-
-
-
